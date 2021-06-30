@@ -15,6 +15,7 @@ COMO USAR (HOW TO USE):
 5. Se o protocolo de sua API não tiver SSL, você precisará desativar a política de CORS, que é padrão nos navegadores.
 6. Após isso é só clicar no botão central da tela e ver o resultado no console do navegador.
 
+-----------------------------------------------------------------
 1. Clone this repository on your machine.
 2. Open the Config.js file in your code editor.
 3. Fill in the fields according to your API. (Supported formats: xml, json, text).
