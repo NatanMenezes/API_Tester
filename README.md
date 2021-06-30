@@ -6,8 +6,7 @@ Esta página foi criada utilizando o recurso de Fetch da linguagem JavaScript. O
 This page created using the JavaScript language search feature. Its purpose is to test the return of a Fetch request to your API.
 
 
-COMO USAR:
-HOW TO USE:
+COMO USAR (HOW TO USE):
 
 1. Clone esse repositório na sua máquina.
 2. Abra o arquivo Config.js no seu editor de código.
