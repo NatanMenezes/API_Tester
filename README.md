@@ -3,6 +3,9 @@ Teste o funcionamento de sua API
 Test the work of your API
 
 Esta página foi criada utilizando o recurso de Fetch da linguagem JavaScript. O objetivo dela é testar o retorno de uma requisição Fetch à sua API.
+
+---
+
 This page created using the JavaScript language search feature. Its purpose is to test the return of a Fetch request to your API.
 
 
