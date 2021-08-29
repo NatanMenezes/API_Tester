@@ -1,4 +1,5 @@
 # API_Tester
+Este projeto foi criado apenas por mim, ele não é parte de um curso ou tutorial.
 Teste o funcionamento de sua API
 Test the work of your API
 
