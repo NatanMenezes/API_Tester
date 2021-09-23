@@ -1,7 +1,9 @@
 # API_Tester
 Este projeto foi criado apenas por mim, ele não é parte de um curso ou tutorial.
-Teste o funcionamento de sua API
-Test the work of your API
+
+Teste o funcionamento de sua API!
+------------------------------------
+Test the work of your API!
 
 Esta página foi criada utilizando o recurso de Fetch da linguagem JavaScript. O objetivo dela é testar o retorno de uma requisição Fetch à sua API.
 
